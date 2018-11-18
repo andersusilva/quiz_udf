@@ -13,8 +13,8 @@ $(document).ready(function(){
 		},
 		messages : {
 			email : {
-				required : "Please enter email",
-				remote : "Email not exists"
+				required : "Por favor, digite seu e-mail",
+				remote : "Este e-mail não existe"
 			}
 		},
 		errorPlacement : function(error, element) {
